@@ -1,5 +1,5 @@
 {
-  "name": "utopia-kit",
+  "name": "@ianhobbs/utopia-kit",
   "version": "1.0.0",
   "description": "A kit with a simple set of scripts to generate utopia css to integrate into tailwind css",
   "keywords": [
